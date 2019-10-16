@@ -126,7 +126,6 @@
     <ClCompile Include="ennemy.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="map.cpp" />
-    <ClCompile Include="Menu.cpp" />
     <ClCompile Include="player.cpp" />
     <ClCompile Include="potion.cpp" />
     <ClCompile Include="trap.cpp" />
@@ -135,7 +134,6 @@
     <ClInclude Include="ennemy.h" />
     <ClInclude Include="GlobalRessources.h" />
     <ClInclude Include="map.h" />
-    <ClInclude Include="Menu.h" />
     <ClInclude Include="player.h" />
     <ClInclude Include="potion.h" />
     <ClInclude Include="trap.h" />
